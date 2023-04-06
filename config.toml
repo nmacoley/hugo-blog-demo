@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Mon site'
+title = 'Formation'
 theme = "ananke"
